@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618157452434",
+    "project_id": "facebook-compose-fac0d",
+    "storage_bucket": "facebook-compose-fac0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618157452434:android:8aebb90dd0933afbad4a4b",
+        "android_client_info": {
+          "package_name": "com.example.facebookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618157452434-bceohv7uttd6d1a4sk4cnq8a944t55r9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebookapp",
+            "certificate_hash": "c0951824594370eeddd80c0fc18a191e03ce9c2d"
+          }
+        },
+        {
+          "client_id": "618157452434-2p8n1djbes6en3vnrr10tslqtcc4vrg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8p534P8-X4MTBMDxgBaTVT0c5ZJI9vDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618157452434-2p8n1djbes6en3vnrr10tslqtcc4vrg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
